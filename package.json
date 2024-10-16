@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "dotenv": "^16.4.5"
+  },
+  "name": "cowquest",
+  "version": "1.0.0",
+  "description": "La vache qui parle",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Bastien",
+  "license": "MIT"
+}
